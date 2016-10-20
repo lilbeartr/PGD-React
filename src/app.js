@@ -58,8 +58,8 @@ const AppWithoutDescription = () => (
 )
 
 const App = () => {
-    const appTitle = 'PokeGo-Dex'
-    const appContent = 'PokeGo-Dex with React'
+    const appTitle = 'PokéGo-Dex'
+    const appContent = 'PokéGo-Dex with React'
     const items = [[ "pic/001.png" , "No : #001" , "Name : Bulbasaur" , "Type : Grass/Poison" , "Highest CP : 322" , "Highest VI : 69 " ]
     , [ "pic/002.png" , "No : #002" , "Name : Ivysaur" , "Type : Grass/Poison" , "Highest CP : 755" , "Highest VI : 72 " ]
     , [ "pic/133.png" , "No : #133" , "Name : Eevee" , "Type : Normal" , "Highest CP : 503" , "Highest VI : 90 " ]
